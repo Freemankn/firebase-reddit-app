@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RbwBarEx)
+## Firebase Setup
+
+This project uses Firebase, but the `google-services.json` file is not included for security reasons.
+
+To run the project:
+
+1. Create your own Firebase project
+2. Register an Android app in Firebase
+3. Download `google-services.json`
+4. Place it in:
+
+```text
+app/google-services.json
+```
